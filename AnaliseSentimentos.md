@@ -9,7 +9,7 @@ Neste lab, vimos como criar e utilizar o serviço do **Speech Studio**.
 ### Funcionalidade Principal
 Transformar **texto em áudio** e **áudio em texto**.
 
-###Exemplos de Uso
+### Exemplos de Uso
 - Legendar cenas com a conversão de fala em texto.
 - Transcrição e análise de chamadas de call center com base na fala e idioma usando os serviços do **Azure**.
 
