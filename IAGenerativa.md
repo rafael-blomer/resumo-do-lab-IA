@@ -11,7 +11,7 @@ Nesse laboratório vimos sobre o Microsoft Copilot, os principais pontos desenvo
 - Também vimos ele gerando código em uma linguagem específica;
 - E por fim, vimos alguns cenários que as IAs generativas podem auxiliar os seres humanos.
 
-- ## Segundo laboratório
+## Segundo laboratório
 Nesse laboratório vimos sobre o Microsoft Learning, os principais pontos desenvolvidos foram:
-- precisamos solicitar acesso para o Azure OpenAI;
+- precisamos solicitar acesso para o Azure OpenAI por meio de um questionário;
 - precisamos de uma conta de email de empresa.
